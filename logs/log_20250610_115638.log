@@ -1,0 +1,6 @@
+2025-06-10 11:56:40,760 - INFO - Test started: test_login_with_ini_credentials
+2025-06-10 11:56:40,763 - INFO - Starting login process
+2025-06-10 11:56:40,858 - INFO - Entered username
+2025-06-10 11:56:40,939 - INFO - Entered password
+2025-06-10 11:56:41,055 - INFO - Clicked login button
+2025-06-10 11:56:41,062 - INFO - Login successful. Reached inventory page.

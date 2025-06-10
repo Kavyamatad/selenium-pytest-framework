@@ -1,0 +1,4 @@
+element_name,xpath
+username,//input[@id="user-name"]
+password,//input[@id='password']
+login,//input[@id="login-button"]
