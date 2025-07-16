@@ -1,4 +1,5 @@
 Selenium, Pytest, Logging, HTML Reports
+
 Create virtual environment:
  'python - venv .\venv'
  This will create virtual environment 'venv' directory in location C:\automation\sitestautomationpython
